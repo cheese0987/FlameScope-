@@ -14,7 +14,7 @@ FlameScope doesn’t put out fires—but it helps people make **smarter, faster 
   Avoids confusion between nearby or overlapping wildfires so responders don’t waste time or duplicate effort.
 
 - ⏱️ **Enables faster decision-making**  
-  Clickable fire markers display key event data (ID, title, coordinates) in seconds—no spreadsheet needed.
+  Clickable fire markers display key event data (ID, title, coordinates) in seconds
 
 - 🌎 **Supports field navigation**  
   45° tilt and satellite view help identify roads, water sources, buildings, and nearby danger zones.
