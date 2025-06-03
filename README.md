@@ -6,7 +6,7 @@ Designed for clarity and speed, FlameScope visualizes wildfires on a live map an
 
 ---
 
-## 🚨 Why FlameScope Helps Control Wildfires
+## 🚨 How FlameScope Helps Control Wildfires
 
 FlameScope doesn’t put out fires—but it helps people make **smarter, faster decisions** to contain them.
 
