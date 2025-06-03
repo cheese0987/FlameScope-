@@ -1,0 +1,48 @@
+.location-info-box {
+  position: fixed;
+  top: 250px;
+  right: 60px;
+  z-index: 1000;
+
+  background: rgba(0, 8, 20, 0.7);
+  border: 2px solid #00ff8c;
+  border-radius: 8px;
+  padding: 1.2rem 1.5rem;
+  color: #ffffff;
+  width: 280px;
+  box-shadow:
+    0 0 10px rgba(0, 255, 157, 0.4),
+    0 0 20px rgba(0, 170, 255, 0.2) inset;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.location-info-box h2 {
+  font-size: 1.1rem;
+  color: #00ff7b;
+  margin-bottom: 0.8rem;
+  text-shadow: 0 0 5px #00ff48;
+}
+
+.location-info-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  /** ✅ Left-align the text */
+  text-align: left;
+}
+
+.location-info-box li {
+  margin: 0.5rem 0;
+  font-size: 0.95rem;
+  color: #c0eaff;
+  /** ✅ Left-align the text */
+  text-align: left;
+}
+
+.location-info-box span {
+  color: #ffffff;
+  font-weight: bold;
+}
